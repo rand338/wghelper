@@ -1,4 +1,4 @@
-# WireGuard Client Setup für Pop!_OS
+# WireGuard Client Setup für Pop!_OS (und andere)
 
 Dieses Skript automatisiert die Einrichtung einer WireGuard-VPN-Verbindung auf Pop!_OS (und anderen Ubuntu-basierten Systemen). Es bereinigt bei Bedarf alte Konfigurationen, um Konflikte zu vermeiden, und richtet die neue Verbindung als systemweiten Dienst ein.
 
